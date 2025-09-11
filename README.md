@@ -1,61 +1,77 @@
+# 👋 Hi, I'm Nikhil K S
 
-# Hello, I'm NIKHIL
-<a href="http://www.linkedin.com/in/cyber-nikhil-ks"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+🎯 **Certified Ethical Hacker (CEH) | VAPT Analyst | Cybersecurity Enthusiast**  
+📍 Kerala, India | 📧 nikhilks5643v@gmail.com | 📞 +91-8848177354  
+🔗 [LinkedIn](http://www.linkedin.com/in/cyber-nikhil-ks)
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🛡️ About Me
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+I’m a **Cybersecurity Analyst** with hands-on experience in **Vulnerability Assessment, Penetration Testing**, and **SIEM-based threat detection**. Passionate about securing systems and networks through proactive analysis and ethical hacking. Skilled in **Python**, **Bash**, **PowerShell**, and tools like **Burp Suite**, **Nmap**, **Wireshark**, and **Metasploit**.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🔍 Currently exploring **SOC operations**, **cloud security**, and **threat hunting techniques**.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## ⚒️ Core Skills
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- 🔐 Security Operations (SOC), Threat Detection, Log Analysis  
+- 🧰 VAPT: Burp Suite, Nmap, Nessus, Metasploit, OWASP ZAP  
+- 📈 SIEM Platforms: Splunk, Wazuh, Microsoft Sentinel  
+- 💻 Network & Protocol Analysis: Wireshark, TCPDump, PCAP  
+- 🧠 Frameworks: MITRE ATT&CK, NIST CSF, OWASP Top 10  
+- ☁️ Cloud Security: Google Cloud Platform (GCP)  
+- 💬 Scripting: Python, Bash, PowerShell
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🚀 Projects
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 🔍 **Windows Server 2022 – Security Log Analysis & Alert Triage**
+- Enabled security logging on Windows Server 2022 to monitor key events.  
+- Detected **failed logins**, **privilege escalations**, and **malicious PowerShell use**.  
+- Built a **SOC-style triage workflow** to investigate and document incidents.
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-C%20%7C%20EH-CE0000?&style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🌐 **Protocol Forensics & Threat Detection Using Wireshark**
+- Analyzed **TLS, TCP, HTTP, and ICMP** traffic for threat patterns and anomalies.  
+- Gained hands-on skills in **packet dissection** and **network forensics**.  
+- Tools used: Wireshark, TCPDump, PCAP files
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+> 🛠️ View more projects in the `Projects` folder.
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 Education
+- **Advanced Diploma in Cyber Defence** – RedTeam Hacker Academy *(2024–2025)*  
+- **BCA – Computer Science** – Santhigiri College *(2021–2024)*
+
+### 📜 Certifications
+
+- ![CEH](https://img.shields.io/badge/CEH-EC--Council-blue?style=for-the-badge&logo=ec%20council&logoColor=white)  
+  **Certified Ethical Hacker (CEH)** – EC-Council
+
+- ![Google](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white)  
+  **Google Cybersecurity Professional Certificate**
+
+- ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Cybersecurity-blue?style=for-the-badge&logo=googlecloud&logoColor=white)  
+  **Google Cloud Cybersecurity Certificate**
+
+
+
+---
+
+## 📫 Let’s Connect
+
+I'm open to opportunities in **SOC**, **Threat Detection**, **Penetration Testing**, or **Cloud Security** roles.
+
+- 📧 Email: [nikhilks5643v@gmail.com](mailto:nikhilks5643v@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/cyber-nikhil-ks](http://www.linkedin.com/in/cyber-nikhil-ks)  
+- 📍 Kerala, India  
+
+---
+
+> ⚡ *“Attackers only need to find one way in. Defenders must protect all paths.”*  
+— I'm here to be the defender.
